@@ -24,6 +24,11 @@ sudo apt-get install python-matplotlib python-pip
 pip install pandas
 ```
 
+install boost lib
+```
+sudo apt-get install libboost-all-dev
+```
+
 # How to build and run
 
 ```
